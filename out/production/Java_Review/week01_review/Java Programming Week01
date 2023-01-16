@@ -1,0 +1,143 @@
+Java Programming Week01
+
+Review Topics:
+    1. Discord management
+    2. Basic Computer Knowledges
+    3. Java Components
+    4. Java Project: src, package, class ...
+    5. print statement & main method
+    6. execution flow
+    7. Comments
+    8. Escape Sequences
+    9. Variables
+
+
+Must Have softwares:
+    1. JDK
+    2. IntelliJ IDE
+    3. Chrome & Firefox
+    4. Discord
+
+Recommendation:
+    1. Sublime text editor
+
+
+Accounts:
+    1. JetBrains Account
+    2. Repl.it Account
+    3. GitHub Account
+    4. Zoom Account
+
+    5. MyCydeo Account
+
+
+
+Folder: to store files
+
+file: to store data
+
+common file extentions:
+
+            .txt ===> text file
+            .pdf ===> pdf file
+                pics: .img
+                      . png
+                      . jpg
+            .java ===> Java File
+
+            .pptx
+            .xslm
+            .docx
+            .class ===> class files (byte codes)
+
+Basic Shortcuts:
+    Mac:
+        copy ==> command + c
+        paste ==> command + v
+        undo ===> command + z
+        cut ===>  command + x
+        select all ===> command + A
+        save ===> command + s
+        screenshot ===> command + shift + 3
+
+
+    Windows:
+        copy ==> cntrl + c
+        paste ==> cntrl + v
+        undo ===> cntrl + z
+        cut ===>  cntrl + x
+        select all ===> cntrl + A
+        save ===> cntrl + s
+        screenshot ===> windows key + prtscn (will be saved under pictures directury)
+                         alt + prtscn
+            or use snipping tool
+
+
+
+JDK: Java Development Kit (11)
+
+    JRE: Java Runtime Environment
+
+    JVM: Java Virtual Machine
+
+    JavaC: Java Compiler
+
+
+code snippet in discord:
+
+        ```java
+
+            your codes
+
+        ```
+
+
+
+
+
+
+
+Java_Reviews
+
+
+IntelliJ Shortcut:
+    Mac:
+        reformating the codes:  option + command + L
+
+        main method: main + Enter
+
+        print statements: sout + Enter
+
+        print variable: soutv + Enter
+
+
+    Windows:
+        reformating the codes:  alt + cntrl + L
+
+        main method: main +Enter
+
+        print variable: soutv + Enter
+
+        print statements: sout + Enter
+
+
+
+escape Sequences:
+
+    \t: horizontal tab
+
+    \n: new line
+
+    \": double quote
+
+    \\: back slash
+
+
+
+
+WHere to find IdeaProjects folder?
+     go to users folder -> YourName folder -> IdeaProjects
+
+
+DataTypes
+

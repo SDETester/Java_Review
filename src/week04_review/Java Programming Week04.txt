@@ -1,0 +1,46 @@
+Java Programming Week04
+
+Review Topics:
+			String Objects: literal vs new
+			String Methods
+
+
+
+package name: week04_review
+
+
+String: string of text. sequence of characters
+
+
+String methods: charAt, length, indexOf,  lower/upper, replace/replaceFirst, substring, equals/equalsIgnoreCase, conatins. starts/endsWith, isEmpty
+
+
+
+Challenge Task:
+	1. Write a program that can return the frequency of the word "Java" from a sentence
+
+				Ex:
+					sentence = "Java Java Java Java Python C# Ruby C++ Swift"
+
+					output: 4
+
+
+			DO NOT implement any new topics (Loops, custom methods etc)
+
+
+Practice Task:
+	Create a class named CombineWords. Ask user to enter two words. Then add them together and print.
+    But if the last letter if the first word and the first letter of the last letter is the same, print that character once.
+
+                Input:
+                    one
+                    eight
+
+                Output:
+                    oneight
+
+
+
+Next week: custom methods
+		   loop
+

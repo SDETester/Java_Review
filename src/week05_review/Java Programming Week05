@@ -1,0 +1,85 @@
+Java Programming Week05
+
+Review Topics: Custom Methods
+                    void methods
+                    return methods
+
+               For Loop
+
+package name: week05_review
+
+
+Method: a function
+
+    Syntax:
+                                      (MUST)       (MUST)
+        Access-Modifier  Specifier  Return-Type  methodName(Parameters){
+
+                // Code Fragments
+
+        }
+
+        Access Modifiers: public, protected, default, private
+
+                    public: Always accessible
+
+        Specifiers: static, final, abstract, synchronized
+
+                    static: can be called through class name
+
+        Return-Type: void, any data type
+
+                    void: can not return any value from the method
+                    not void: method MUST return a value
+                                 data type we gave will decide what kind of value will be returned from the method
+
+        method name: any name
+
+        Parameters: any data type
+
+                    a data the method MUST have otherwise the method can not perform its task
+
+
+
+
+Tasks
+    1. Create a method named calculate that accespt three arguments:
+            1. num1 (double)
+            2. operator (char)
+            3. num2 (double)
+
+        if the operator is +:
+                the method should return the addition of the two numbers
+
+        if the operator is -:
+                the method should return the subtraction of the two numbers
+
+        if the operator is *:
+                the method should return the multiplication of the two numbers
+
+        If the operator is /:
+                if denominator is NOT zero:
+                    then the method should return the division
+
+        for any other operators, the method should return 0
+
+
+jump statements:
+
+    continue: jump to the next iteration of the loop. skips the current iteration
+                THERE MUST BE A LOOP
+
+    break: exits the loop or switch
+                when we need to forcefully to exit a loop
+
+    return: exits the current method.
+                Can also be used to return a value from a return method
+
+    System.exit(1): terminates the program.
+
+
+
+Loop: Repeated Action
+
+
+    For Loop: used for fixed number of repitition

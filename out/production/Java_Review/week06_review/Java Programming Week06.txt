@@ -1,0 +1,142 @@
+Java Programlama Haftası06
+
+İnceleme Konuları: Döngüler
+                    Döngü için
+                    While Döngüsü
+                    İç İçe Döngü
+
+               Sınıf ve Nesne
+
+Paket adı: week06_review
+
+
+Döngüler: Tekrarlanan Eylem
+
+    For döngüsü: Tekrarlama sabit olduğunda
+
+                     i =0; i < uzunluk
+                for(init; koşul; i++){
+                    kod
+                }
+
+                RemoveDuplicates
+
+
+
+    While döngüsü: Tekrarlama sabit OLMADIĞINDA
+                Tekrarlanan Eğer
+
+                while(Koşul){
+                    kod
+                }
+
+                if(Koşul){
+                    kod
+                }
+
+
+    Do-While döngüsü: Tekrarlama sabit olmadığında
+                    Döngü en az bir kez yürütülmelidir
+
+
+                do{
+                    kod
+                }while(Koşul);
+
+
+    İç içe döngü: başka bir döngü içinde döngü
+
+
+            Frekans Görevi
+
+
+
+Sınıf: nesnelerin şablonu. nesnenin nasıl oluşturulacağını, içereceğini ve davranacağını belirler
+                    sınıfın nesnelerinin ihtiyaç duyduğu tüm nitelikleri ve eylemleri gösterir
+
+               örnek değişkenler: nesneye aittir
+                                    her nesne örnek değişkenin kendi kopyasına sahiptir
+
+               örnek yöntemler: nesneye aittir
+                                her nesnenin kendi kopyası vardır
+
+                    örnek: birden fazla kopya
+                    statik: SADECE bir kopya
+
+
+
+
+Nesne: sınıfın örneği. kendi belleği vardır
+
+
+Translated with www.DeepL.com/Translator (free version)
+
+Java Programming Week06
+
+Review Topics: Loops
+                    For Loop
+                    While Loop
+                    Nested Loop
+
+               Class & Object
+
+Package name: week06_review
+
+
+Loops: Repeated Action
+
+    For loop: When the repetition is fixed
+
+                     i =0;  i < length
+                for(init; condition; i++){
+                    code
+                }
+
+                RemoveDuplicates
+
+
+
+    While loop: When the repetition is NOT fixed
+                repeated If
+
+                while(Condition){
+                    code
+                }
+
+                if(Condition){
+                    code
+                }
+
+
+    Do-While loop: When the repetition is NOT fixed
+                    Loop MUST be executed at least once
+
+
+                do{
+                    code
+                }while(Condition);
+
+
+    Nested loop: loop inside another loop
+
+
+            Frequency Task
+
+
+
+Class: template of objects. determines how the object should be created, contains & behave
+                    indicates all the attributes & actions the objects of the class need
+
+               instance variables: belong to the object
+                                    each object has its own copy of the instance variable
+
+               instance methods: belong to the object
+                                each object has its own copy
+
+                    instance: multiple copies
+                    static: one copy ONLY
+
+
+
+
+Object: instance of the class. has its own memory

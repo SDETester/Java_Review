@@ -1,0 +1,111 @@
+Java Programming Week02
+
+Review Topics:
+    1. Primitive castings
+    2. Concatenation
+    3. Operators:
+            Arithmetic: +, -, *, /, %
+            shorthand: =, +=, -=, *=, /=, %=
+            unary: --, ++,
+            relational
+            logical
+
+    4. If Statements
+            Single if
+            If & Else
+
+
+package name: week02_review
+
+
+Concatenation vs Addition: +
+
+			Addition:
+				number + number
+
+			Concatenation:
+				text + any data
+				any data + text
+				text + text
+
+
+
+
+Arithmetic Operators:
+	+: Addition
+			"200" + 500 = "200500"
+
+			500 + 400 = 900
+
+	-: Subtraction
+
+			1000 - 300 = 700
+
+	*: Multiplication
+
+			20 * 5 = 100
+
+			2.5 * 2 = 5.0
+
+	/: division
+
+			10 / 2  = 5
+
+			10 / 3 = 3
+
+
+	%: remainder
+
+		in math:  20 / 8 = 2.5
+
+				remainder = 20 - (8 * 2)
+				remainder = 4
+
+		in java: 20 % 8 ==> 4
+
+
+				100 / 28 = 3.57
+
+				remainder = 100 - (28*3)
+				remainder =  100 - 84
+				reaminder = 16
+
+
+				100 % 28 ===>16
+
+
+
+Logical Operatirs:
+
+		||: or. only ONE condition need to be true in order to return true
+
+
+		&&: and. both condition must be true, in order to return true
+
+
+
+
+
+If Statements: Conditional statements. decision makings
+
+	single if: creating conditions for one possible output
+
+			if(Boolean Condition){
+					statements
+			}
+
+	if & else: creating conditions for 2 possible outputs. NOT MORE NOT LESS THAN 2 CONDITIONS
+
+			if(Boolean Condition){
+
+			}else{ // !
+
+			}
+
+
+
+	multi-branch if
+
+	nested if
+
+	ternary
